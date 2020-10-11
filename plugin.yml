@@ -1,0 +1,7 @@
+name: HispanoAC
+main: hispano\ac\Enforcement
+api-version: 3.0.0
+api: 3.0.0
+author: LiTEK
+version: 1.0-beta
+load: STARTUP
